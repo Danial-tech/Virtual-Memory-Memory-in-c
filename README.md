@@ -1,4 +1,4 @@
-# Virtual-Memory-Memory-in-c
+# Virtual-Memory-Manager-in-c
 A VIrtual Memory Manager in Linux
 
 Translates logical to physical address for a virtual address space
